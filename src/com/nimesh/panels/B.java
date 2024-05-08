@@ -8,12 +8,12 @@ package com.nimesh.panels;
  *
  * @author DELL
  */
-public class A extends javax.swing.JPanel {
+public class B extends javax.swing.JPanel {
 
     /**
      * Creates new form A
      */
-    public A() {
+    public B() {
         initComponents();
     }
 
